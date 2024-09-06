@@ -66,13 +66,13 @@ At Kenyatta University, this system was implemented to streamline the voting pro
 The screenshots of the system are located in the Screenshots folder. Below are some examples showcasing different parts of the project:
 
 # Admin Dashboard
-![Return Path](Screenshots/admin_dashboard.PNG)
+![Return Path](Screenshots/admin_dashboard.png)
 
 # Voter Login Page
-![Return Path](Screenshots/voter_login.PNG)
+![Return Path](Screenshots/voter_login.png)
 
 # Ballot Interface
-![Return Path](Screenshots/ballot-interface.PNG)
+![Return Path](Screenshots/ballot_interface.png)
 
 
 
