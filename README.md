@@ -61,7 +61,7 @@ At Kenyatta University, this system was implemented to streamline the voting pro
 - Point your server to the index.php file in the project root.
 
 5. **Run the application:**
-- Access the application via your browser at http://localhost/yourproject.
+- Access the application via your browser at http://localhost/votesystem.
 
 ## Screenshots
 The screenshots of the system are located in the Screenshots folder. Below are some examples showcasing different parts of the project:
