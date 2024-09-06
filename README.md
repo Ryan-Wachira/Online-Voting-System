@@ -29,20 +29,16 @@ At Kenyatta University, this system was implemented to streamline the voting pro
 
 - **Frontend:** 
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5">
-            <span style="color: #E34F26;">HTML5</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3">
-            <span style="color: #1572B6;">CSS3</span>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript">
-            <span style="color: #F7DF1E;">JavaScript</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap">
-            <span style="color: #7952B3;">Bootstrap</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"> <span style="color: #E34F26;">HTML5</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"> <span style="color: #1572B6;">CSS3</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30"> <span style="color: #F7DF1E;">JavaScript</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="30" height="30"> <span style="color: #7952B3;">Bootstrap</span>
 
 - **Backend:** 
-  - PHP
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="30" height="30"> <span style="color: #777BB4;">PHP</span>
 
 - **Database:** 
-  - MySQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="30" height="30"> <span style="color: #4479A1;">MySQL</span>
 
 ## Installation
 
